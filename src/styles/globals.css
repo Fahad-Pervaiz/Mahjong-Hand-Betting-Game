@@ -1,0 +1,76 @@
+:root {
+  --bg-page: #1a2620;
+  --bg-page-deep: #0f1613;
+  --felt-green: #2f6a53;
+  --felt-green-dark: #204a39;
+  --frame-green: #295a47;
+  --frame-green-dark: #1f4335;
+  --panel-cream: #efe8d4;
+  --panel-cream-soft: #f7f2e4;
+  --tile-face: #f9f6ed;
+  --tile-side: #dad4c4;
+  --text-ink: #2e2b24;
+  --text-muted: #6d6556;
+  --gold: #b3914a;
+  --gold-soft: #d4bc83;
+  --danger: #a9483f;
+  --success: #3d7b4d;
+  --neutral: #56656f;
+
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
+  --radius-xl: 30px;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+
+  --shadow-panel: 0 14px 32px rgba(7, 12, 10, 0.34);
+  --shadow-tile: 0 8px 14px rgba(27, 24, 18, 0.22);
+  --shadow-btn: 0 5px 0 rgba(0, 0, 0, 0.2);
+
+  --transition-fast: 130ms ease;
+  --transition-med: 220ms ease;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Trebuchet MS', 'Segoe UI', sans-serif;
+  background: radial-gradient(circle at top, #355947 0%, var(--bg-page) 46%, var(--bg-page-deep) 100%);
+  color: var(--text-ink);
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  font-family: inherit;
+}
+
+h1,
+h2,
+h3,
+.app-shell-title,
+.panel-title {
+  font-family: Georgia, 'Times New Roman', serif;
+}
+
