@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mahjong Hand Betting Game
 
 ## Project Overview
@@ -68,3 +69,6 @@ This project’s implementation, integration, debugging, and final validation we
 - Add configurable scoring modes and additional bet types
 - Add a resumable in-progress session state
 - Add lightweight sound/feedback options with accessibility controls
+=======
+# Mahjong-Hand-Betting-Game
+>>>>>>> 117be083254a4875ff1d9f7814a92472baff2511
