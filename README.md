@@ -4,6 +4,10 @@
 Mahjong Hand Betting Game is a web-based mini-game where the player predicts whether the next Mahjong hand total will be higher or lower than the current one. The app includes a polished game UI, dynamic tile-value rules for honor tiles, round history tracking, and a persistent top-5 leaderboard.
 
 ![Landing page — intro, tile preview, New Game, and Top 5 leaderboard](readme-assets/landing-page.png)
+![Landing page — intro, tile preview, New Game, and Top 5 leaderboard](readme-assets/start.png)
+![Landing page — intro, tile preview, New Game, and Top 5 leaderboard](readme-assets/win.png)
+![Landing page — intro, tile preview, New Game, and Top 5 leaderboard](readme-assets/miss.png)
+![Landing page — intro, tile preview, New Game, and Top 5 leaderboard](readme-assets/gameover.png)
 
 ## Features
 - Landing page with game intro and leaderboard
